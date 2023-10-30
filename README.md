@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on:
-- [ ] **Inventory Tracker:** aimed at reducing food waste and simplifying daily meal planning and grocery shopping.
+- [ ] **TimeEditArc:** An intuitive Python script for importing iCalendar events into Google Calendar.
 - [ ] **ArcNest:** A family management hub for tasks and events. 
 
 - 🌱 I’m currently learning: Vue.JS Frontend Development, Containerization
