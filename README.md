@@ -3,6 +3,6 @@
 - [ ] **CommitCritiqueArc:** Automated AI feedback on GitHub commits for messing with your friends or enhancing message quality.
 - [ ] **ArcNest:** A family management hub for tasks and events. 
 
-- 🌱 I’m currently learning: AI integration, Frontend Development & Containerization
+- 🌱 I’m currently learning: AI integration, Networking & Containerization/ Kubernetes
 - 📫 How to reach me: hello@mxarc.com
 - ⚡ Fun fact: When I find a new passion, it consumes my thoughts until I've mastered it
