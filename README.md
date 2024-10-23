@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on:
-  - **NeuroNet:** A system designed to automate and optimize everyday tasks.
-  - **Context-aware LLM:** A customizable tool that uses any provided context to generate relevant responses.
+  - Track-This-Thing: A general-purpose system to track various items, aiming for flexibility.
+  - Context-aware LLM: A tool that leverages the tracked items as context to generate relevant responses.
 
-- 🌱 I’m currently learning: Rust, Ansible & IaaS
+- 🌱 I’m currently learning: Rust, fine-tuning LLMs
 
 - 🎓 Studying: Computer Science
 
