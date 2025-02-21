@@ -1,8 +1,7 @@
 - 🔭 I’m currently working on:
-  - Track-This-Thing: A general-purpose system to track various items, aiming for flexibility.
-  - Context-aware LLM: A tool that leverages the tracked items as context to generate relevant responses.
+  - A central hub for my home. An extendable API that will be used by other projects.
 
-- 🌱 I’m currently learning: Rust, fine-tuning LLMs
+- 🌱 I’m currently learning: CUDA, MQTT, Home Automation
 
 - 🎓 Studying: Computer Science
 
