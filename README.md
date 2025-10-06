@@ -1,5 +1,5 @@
 ### hi, i'm max
-- i find problems, create solutions, and build tools
+- i find problems, build tools, and create solutions
 - working @ teracloud
 - studying CS  
 
